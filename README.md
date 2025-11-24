@@ -104,8 +104,8 @@ The program will display:
 4. Verify the program outputs the predicted category and confidence score.
 5. Test edge cases (unknown phrases, empty input) to check fallback rules.
 # FUTURE ENHANCEMENT
-1.Add web/mobile interface
-2.Expand dataset
-3.Use advanced NLP models
-4 Support multiple languages
-5.Add analytics and alerts
+1. Add web/mobile interface
+2. Expand dataset
+3. Use advanced NLP models
+4. Support multiple languages
+5. Add analytics and alerts
